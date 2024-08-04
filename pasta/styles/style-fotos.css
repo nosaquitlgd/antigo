@@ -1,4 +1,3 @@
-
 * {
     margin: 0;
     padding: 0;
@@ -8,13 +7,6 @@ body{
     background-color: rgb(177, 227, 250);
 
 }
-header a {
-    text-decoration: none;
-    color: azure;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
-}
-
 header {
     background-color: black;
     /* width: 15px 20px; */
@@ -27,4 +19,12 @@ header {
 header:hover {
     opacity: 1.2;
     transition: 2s;
+}
+
+
+header a {
+    text-decoration: none;
+    color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 }
